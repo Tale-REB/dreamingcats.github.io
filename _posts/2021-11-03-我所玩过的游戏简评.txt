@@ -1,9 +1,9 @@
 ---
 layout:     post
-title: 我所玩过的游戏简评
-subtitle:好评差评都有
-date:2021-11-03
-author:DreamCat
+title:      我所玩过的游戏简评
+subtitle:      好评差评都有
+date: 2021-11-03
+author: DreamCat
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
