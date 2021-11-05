@@ -1,0 +1,62 @@
+---
+layout:     post
+title:     常用adb指令
+subtitle:   建议搞成批处理来用
+date:       2021-11-05
+author:    DreamCat
+header-img: img/post-bg-debug.png
+catalog: true
+tags:
+    - 搞机
+---
+
+# 获取屏幕触控采样率
+
+[原贴地址](https://tieba.baidu.com/p/6691664804)
+
+```
+adb shell getevent -t -r -l
+```
+
+# 华为手机隐藏状态栏上不想看到的图标
+
+仅在EMUI上测试，鸿蒙和其它UI不知道效果
+
+[原帖地址](https://cn.ui.vmall.com/thread-21753534-1-1.html)
+
+```
+adb shell settings put secure icon_blacklist %d
+```
+
+%d表示:
+eyes_protect(护眼模式),
+volte_call(VOLTE)
+估计上面两个是你们最想关的
+Bluetooth(蓝牙),
+nfc(NFC),
+alarm_clock(闹钟),
+location(定位),
+volume(震动)
+
+# ADB和Fastboot指令
+
+如果在Fastboot模式下执行,把adb换成fastboot
+
+重启
+
+```
+adb reboot
+```
+
+进入REC
+
+```
+adb reboot recovery
+```
+
+进入Fastbootd模式
+
+```
+fastboot reboot fastboot
+```
+
