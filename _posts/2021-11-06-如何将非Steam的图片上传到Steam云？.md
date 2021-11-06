@@ -19,14 +19,14 @@ tags:
 
 1.首先你需要打开游戏,按<font color=red>F12</font>截一张图,然后退出,这时会弹出一个窗口,点击<font color=red>在硬盘中查看</font>
 
-![](https://github.com/DreamingCats/dreamingcats.github.io/raw/main/SteamPicture/Step1.png)
+![](https://github.com/DreamingCats/dreamingcats.github.io/raw/main/img/SteamPicture/Step1.png)
 
 2.然后导入你要上传的<font color=red>JPG</font>图片 ，复制到\...\screenshots下
 注：PNG等其它格式不行，不要放在thumbnails下
 
 3.然后将这些图片全部复制一份，依然放到本目录下，得到xxx - Copy.jpg
 
-![](https://github.com/DreamingCats/dreamingcats.github.io/raw/main/SteamPicture/Step2.png)
+![](https://github.com/DreamingCats/dreamingcats.github.io/raw/main/img/SteamPicture/Step2.png)
 
 4.将这些图片批量重命名，推荐使用[Everything](https://www.voidtools.com/zh-cn/)
 
@@ -36,7 +36,7 @@ tags:
 
 Ctrl+A全选，然后按<font color=red>F2</font>
 
-![](https://github.com/DreamingCats/dreamingcats.github.io/raw/main/SteamPicture/Step3.png)
+![](https://github.com/DreamingCats/dreamingcats.github.io/raw/main/img/SteamPicture/Step3.png)
 
 原文件格式(注意-之间有空格)：
 ```
@@ -54,16 +54,18 @@ Ctrl+A全选，然后按<font color=red>F2</font>
 
 再回到你要上传截图的游戏,点击<font color=red>管理我的%d张截图</font>
 
-![](https://github.com/DreamingCats/dreamingcats.github.io/raw/main/SteamPicture/Step4.png)
+![](https://github.com/DreamingCats/dreamingcats.github.io/raw/main/img/SteamPicture/Step4.png)
 
 全选,点击上传
 
-![](https://github.com/DreamingCats/dreamingcats.github.io/raw/main/SteamPicture/Step5.png)
+![](https://github.com/DreamingCats/dreamingcats.github.io/raw/main/img/SteamPicture/Step5.png)
 
 直连应该可以，不行就挂加速器
 
 
-6.全部上传成功后，本地图片就可以删了，教程结束
+6.全部上传成功后，本地图片就可以删了，注意不要顺手把在Steam云删除勾上，教程结束
+
+![](https://github.com/DreamingCats/dreamingcats.github.io/raw/main/img/SteamPicture/Step6.png)
 
 注：这个教程在2021年11月6日依然有效，如果出错了建议回去看看<font color=red>红字</font>
 
