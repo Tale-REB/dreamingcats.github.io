@@ -1,7 +1,10 @@
 
-[测试效果](https://dreamingcats.github.io)
 
-[反代](https://githubio.dreamcat.workers.dev/)
+
+<a href="https://dreamingcats.github.io/" target="_blank">测试效果</a>
+
+<a href="https://githubio.dreamcat.workers.dev/" target="_blank">Cloudflare反代</a>
+
 
 ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
 
